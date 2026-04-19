@@ -397,4 +397,3 @@ elif page == "⚙️ Settings":
                 st.rerun()
 
 st.divider()
-st.caption("Second Year Project by Siddhant Chaudhari, Sanchit Shingole, Gunjan Bhangre, Ameya Jadhav")
