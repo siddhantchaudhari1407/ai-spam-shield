@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit/App specific
+.streamlit/
+exports/
+*.csv
+
+# Models (optional to ignore if you want to retrain on cloud, 
+# but for this project we WANT to include them for instant use)
+# !models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
